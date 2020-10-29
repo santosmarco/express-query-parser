@@ -1,0 +1,20 @@
+{
+  "name": "express-query-parser",
+  "description": "Express middleware to parse query string values into their respective variable types",
+  "version": "1.0.0",
+  "keywords": [
+    "express",
+    "query",
+    "parser"
+  ],
+  "main": "index.js",
+  "author": "Marco Aurelio Chagas dos Santos <eu@marco.rio.br>",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^6.13.6"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
